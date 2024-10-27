@@ -1,6 +1,6 @@
 # Terms of Use for Revlo by EvoTech
 
-**Last Updated:** [Date]
+**Last Updated:** 27 October 2024
 
 Welcome to Revlo, a telematics app developed by EvoTech ("we," "us," "our") designed to track driving behavior, promote road safety, and reward safe driving habits. By using our app, you ("user," "you," "your") agree to comply with and be bound by the following terms of use.
 
